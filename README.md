@@ -1,6 +1,6 @@
 # Causal Inference Exploration using DoWhy and CDT
 
-This repository contains my exploration of causal inference using the DoWhy library and Causal Discovery Toolbox (CDT). DoWhy is a Python library that aims to spark causal thinking and analysis by combining causal inference and machine learning techniques, while CDT provides tools for automated causal discovery.
+This repository contains my exploration of causal inference using the Causal Discovery Toolbox (CDT) and DoWhy library. CDT provides tools for automated causal discovery, while DoWhy is a Python library that aims to spark causal thinking and analysis by combining causal inference and machine learning techniques.
 
 ## Contents
 
